@@ -203,3 +203,4 @@ C:\Users\Clara Schoelitsz\OneDrive\Codes\OntbijtClub\OntbijtClub_webapp\OntbijtC
 C:\Users\Clara Schoelitsz\OneDrive\Codes\OntbijtClub\OntbijtClub_webapp\OntbijtClub_webapp\bin\ZstdNet.dll
 C:\Users\Clara Schoelitsz\OneDrive\Codes\OntbijtClub\OntbijtClub_webapp\OntbijtClub_webapp\bin\MySql.Data.xml
 C:\Users\Clara Schoelitsz\OneDrive\Codes\OntbijtClub\OntbijtClub_webapp\OntbijtClub_webapp\bin\MySqlConnector.xml
+C:\Users\Clara Schoelitsz\OneDrive\Codes\OntbijtClub\OntbijtClub_webapp\OntbijtClub_webapp\obj\Debug\OntbijtClub_webapp.csproj.AssemblyReference.cache
